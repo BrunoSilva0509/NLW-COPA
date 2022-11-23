@@ -40,5 +40,6 @@ document.querySelector('#app').innerHTML = `
     
     ${createCard('02/12', 'sexta', createGame('Brazil', '16:00', 'camaroon'))}
     
-  </main>  
+  </main> 
+  
 `
